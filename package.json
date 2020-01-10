@@ -1,0 +1,29 @@
+{
+  "name": "my-algorithm",
+  "version": "1.0.0",
+  "description": "学习算法过程中用js/ts的实现",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.7.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.25",
+    "@types/node": "^12.12.21",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.2.0",
+    "ts-node": "^8.5.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleWorker/my-algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleWorker/my-algorithm/issues"
+  },
+  "homepage": "https://github.com/LittleWorker/my-algorithm#readme"
+}
